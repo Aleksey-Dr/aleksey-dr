@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# [Aleksey-Dr](https://github.com/Aleksey-Dr)
+
+## Technologies
+[![Technologies](https://skillicons.dev/icons?i=html,css,js,react,nodejs)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,git,vscode,figma,mongo)](https://skillicons.dev)
+
+
+
+
 <!--
 **Aleksey-Dr/aleksey-dr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
