@@ -3,8 +3,8 @@
 # [Aleksey-Dr](https://github.com/Aleksey-Dr)
 
 ## Technologies
-[![Technologies](https://skillicons.dev/icons?i=html,css,js,vite,react,nodejs)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=github,git,vscode,figma,postman,mongo)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=html,css,sass,md,js,react,nodejs)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,git,vscode,figma,postman,mongo,vite)](https://skillicons.dev)
 
 
 
